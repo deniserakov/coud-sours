@@ -20,4 +20,4 @@
     }
  }
 
- slidesPlugin(4)
+ slidesPlagin(4)
